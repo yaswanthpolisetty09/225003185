@@ -1,0 +1,9 @@
+
+GET  http://20.244.56.144/categories/:categoryname/products 
+
+###
+GET  http://20.244.56.144/categories/:categoryname/products
+
+###
+
+
